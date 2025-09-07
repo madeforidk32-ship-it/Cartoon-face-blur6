@@ -1,0 +1,6 @@
+opencv-python
+onnxruntime
+numpy
+tqdm
+pillow
+tkinter  # only for some installers; tkinter is usually included with Python on Windows
